@@ -1,0 +1,1 @@
+{"description":"A standalone GitHub-compatible git forge (make.fun github-core-clone-01)","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"eko-git-forge","private":true,"type":"module","version":"1.0.0"}
